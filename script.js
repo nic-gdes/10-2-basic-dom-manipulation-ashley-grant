@@ -17,9 +17,9 @@ background.style.backgroundColor = "lightgreen";
 // 5. Modify the following array to add at least 3 facts about the T. Rex that aren't so frightening. They don't need to be real facts.
 
 let dinoFacts = [];
-    dinoFacts.push('Beautiful Smile');
-    dinoFacts.push('Adorable Arms');
-    dinoFacts.push('They Love Tea');
+    dinoFacts.push('Sharp Teeth');
+    dinoFacts.push('Small Arms');
+    dinoFacts.push('Carnivore');
     console.log(dinoFacts);
 
 // 6. Replace the facts on the page with our new array of facts:
